@@ -5,4 +5,5 @@ A project employing automated collation for comparison and stemmatology of vario
 ## Team
 
 Iris F. Muñiz, University of Oslo
+
 Annika Rockenberger, University of Oslo
